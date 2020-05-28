@@ -10,3 +10,8 @@ Suggestions? contact me, no suggestion is stupid.
 Finish themeing elements
 
 Make theme easily customisable
+
+# Modules
+The modules folder contains small themes I'm working on.
+
+Channel list hider - hides the channel list until you hover over the server list.
