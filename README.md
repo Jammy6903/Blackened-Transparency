@@ -8,4 +8,5 @@ Suggestions? contact me, no suggestion is stupid.
 
 # To-Do
 Finish themeing elements
+
 Make theme easily customisable
