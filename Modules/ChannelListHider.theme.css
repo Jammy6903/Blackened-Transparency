@@ -1,0 +1,13 @@
+/**
+ * @name Channel List Hider Module
+ * @description Hides the channel list until you hover over the server list.
+ * @author Jammy
+ * @version 0.1
+ * @authorId 190855924368277508
+ */
+
+.sidebar-2K8pFh { 
+    width: 8px; /* Width of channel list (change to 0px to hide completely) */
+    transition: width 0s; /* Transition time, default: 0.05s (change to 0s for no transition) */}
+.wrapper-1Rf91z:hover ~ div .sidebar-2K8pFh, .sidebar-2K8pFh:hover { 
+    width: 240px; /* Width of channel list */} 
