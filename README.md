@@ -10,7 +10,7 @@ Suggestions? contact me, no suggestion is stupid.
 
 Requires [Glasscord](https://github.com/AryToNeX/Glasscord) by AryToNex and a css injector such as BetterDiscord, EnhancedDiscord, PowerCord, Beautiful Discord, etc (I have only tested this theme with BetterDiscord, though all the class selectors are default discord classes, so it should work with any client, no promises though)
 # Examples
-![example](https://i.vgy.me/iFQ6uw.png) Please keep in mind the background in the image is not part of the theme, it is transparent.
+![example](https://i.vgy.me/1DEjPL.jpg) Please keep in mind the background in the image is not part of the theme, it is transparent.
 # To-Do
 Make theme easily customisable
 
