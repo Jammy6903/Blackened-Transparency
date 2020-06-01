@@ -11,8 +11,8 @@ Suggestions? contact me, no suggestion is stupid.
 Requires [Glasscord](https://github.com/AryToNeX/Glasscord) by AryToNex and a css injector such as BetterDiscord, EnhancedDiscord, PowerCord, Beautiful Discord, etc (I have only tested this theme with BetterDiscord, though all the class selectors are default discord classes, so it should work with any client, no promises though)
 # To-Do
 Make theme easily customisable
-Light theme (maybe)
 
+Light theme (maybe)
 # Modules
 The modules folder contains small themes I'm working on. You can enable these themes with any other themes. and they should work.
 
