@@ -118,6 +118,7 @@ code.scrollbarGhostHairline-1mSOM1 {background-color: #00000050;}
 .botTagCozy-1fFsZk, .botTag-3W9SuW {border-radius: 100px !important;}
 .messagesWrapper-3lZDfY .scrollerWrap-2lJEkd {padding-bottom: 12px !important;}
 .jumpToPresentBar-9P20AM {border-radius: 15px 15px 15px 15px; padding-bottom: 0; background-color: #f6a9fc; -webkit-transform: translateY(-15px) translateX(10px); width: 350px;}
+.newMessagesBar-mujexs {border-radius: 15px 15px 15px 15px; padding-bottom: 0; background-color: #f6a9fc; translateX(10px); width: 350px;}
 .barButtonMain-1giYuj, .barButtonAlt-3gIkIj {color: #000000;}
 	/* scroll bar */
 	.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {background-color: transparent; border: 4px solid transparent;}
