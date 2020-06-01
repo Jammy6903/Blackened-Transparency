@@ -6,8 +6,10 @@
  * @authorId 190855924368277508
  */
 
-.sidebar-2K8pFh { 
-    width: 8px; /* Width of channel list (change to 0px to hide completely) */
-    transition: width 0s; /* Transition time, default: 0.05s (change to 0s for no transition) */}
-.wrapper-1Rf91z:hover ~ div .sidebar-2K8pFh, .sidebar-2K8pFh:hover { 
-    width: 240px; /* Width of channel list */} 
+@media only screen and (max-width: 900px /* change to a rediculously large number to have channel list hidden always) {
+	.sidebar-2K8pFh { 
+		width: 8px; /* Width of channel list (change to 0px to hide completely, change to 12px to see default discord unread badges.) */
+		transition: width 0.02s; /* Transition time, default: 0.05s (change to 0s for no transition) */}
+	.wrapper-1Rf91z:hover ~ div .sidebar-2K8pFh, .sidebar-2K8pFh:hover { 
+		width: 240px; /* Width of channel list */} 
+}
