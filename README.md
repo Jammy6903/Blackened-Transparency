@@ -1,3 +1,5 @@
+note: this is the first time I've worked with CSS, so forgive me for my terrible structure and any inconcistencies that I have left.
+please get in touch with me if you find anything off.
 # Blackened-Transparency
 A discord theme for modified clients featuring transparency with a black tint and bubbly elements
 
