@@ -13,6 +13,6 @@ Requires [Glasscord](https://github.com/AryToNeX/Glasscord) by AryToNex and a cs
 Make theme easily customisable
 
 # Modules
-The modules folder contains small themes I'm working on.
+The modules folder contains small themes I'm working on. You can enable these themes with any other themes. and they should work.
 
 Channel list hider - hides the channel list until you hover over the server list.
